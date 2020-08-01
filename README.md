@@ -10,7 +10,7 @@ I consider myself a never ending learner, love to work in multidisciplinary team
 
 - 🌱 I’m currently learning Unreal Engine 4 and ASP.net.
 - 💬 Ask me about anything related to videogames, manga, cartoons or any geek topic
-- 📫 How to reach me? On my [linktree](https://linktr.ee/aldhairvera)
+- 📫 How to reach me? [Linktree](https://linktr.ee/aldhairvera)
 <!--
 **BurningAl15/BurningAl15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
