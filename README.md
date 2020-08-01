@@ -4,7 +4,9 @@ I'm a Game Developer/Web Developer. Love to develop videogames and solve problem
 I consider myself a never ending learner, love to work in multidisciplinary teams and learn from them.
 - 🔭 I’m currently working on [GothicVania](https://fatcatgamestudio.itch.io/gothicvania) a very simple metroidvania prototype.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/LlkDU4n" data-context="false" ><a href="//imgur.com/a/LlkDU4n"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/ybNQAkq.png" width="533" height="300"/>
+<img src="https://i.imgur.com/Xd8sMdn.png" width="533" height="300"/>
+<img src="https://i.imgur.com/ArUXuIC.png" width="533" height="300"/>
 
 - 🌱 I’m currently learning Unreal Engine 4 and ASP.net.
 - 💬 Ask me about anything related to videogames, manga, cartoons or any geek topic
