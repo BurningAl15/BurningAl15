@@ -8,7 +8,7 @@ I consider myself a never ending learner, love to work in multidisciplinary team
 
 
 
-- 🌱 I’m currently learning Unreal Engine 4 and ASP.net.
+- 🌱 I’m currently learning Full Stack Development with React and Node JS.
 - 💬 Ask me about anything related to videogames, manga, cartoons or any geek topic
 - 📫 How to reach me? [Linktree](https://linktr.ee/aldhairvera)
 <!--
