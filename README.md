@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-I'm a Game Developer/Web Developer. Love to develop videogames and solve problems.
+I'm a FullStack and Game Developer. Love to develop videogames and apps. My major love is to solve problems.
 I consider myself a never ending learner, love to work in multidisciplinary teams and learn from them.
-- 🔭 I’m currently working on [GothicVania](https://fatcatgamestudio.itch.io/gothicvania) a very simple metroidvania prototype.
+- 🔭 In my free time I work on [GothicVania](https://fatcatgamestudio.itch.io/gothicvania) a very simple metroidvania prototype.
 
 <img src="https://i.imgur.com/ybNQAkq.png" width="30%"></img> <img src="https://i.imgur.com/Xd8sMdn.png" width="30%"></img> <img src="https://i.imgur.com/ArUXuIC.png" width="30%"></img> 
 
 
 
-- 🌱 I’m currently learning Full Stack Development with React and Node JS.
+- 🌱 I've been working as Full Stack Developer with React, Node JS, Express and Mongo.
+- I am currently learning Python and Django.
 - 💬 Ask me about anything related to videogames, manga, cartoons or any geek topic
 - 📫 How to reach me? [Linktree](https://linktr.ee/aldhairvera)
 <!--
