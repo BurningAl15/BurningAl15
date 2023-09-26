@@ -10,7 +10,7 @@ I consider myself a never ending learner, love to work in multidisciplinary team
 - 📫 How to reach me? [Linktree](https://linktr.ee/aldhairvera)
 
 - Here my web page for [web development](https://aldhairvera-portfolio.netlify.app/)
-- Here my [game dev/XR]([https://aldhairvera-portfolio.netlify.app/](https://burningal15.github.io/AldhairVera_Portfolio/)) page
+- Here my [game dev/XR](https://burningal15.github.io/AldhairVera_Portfolio/) page
 - Here my [youtube channel](https://www.youtube.com/channel/UCdcgOD_SQ9Pm1CyAC58-aZA)
 <!--
 **BurningAl15/BurningAl15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
