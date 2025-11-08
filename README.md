@@ -64,8 +64,8 @@ I'm a passionate FullStack and Game/XR Developer who loves creating immersive ex
 
 #### 📫 Connect With Me
 - 🌐 [Web Development Portfolio](https://aldhairvera-portfolio.netlify.app/)
-- 🎮 [Game Dev/XR Portfolio](https://burningal15.github.io/AldhairVera_Portfolio/)
-- 📺 [YouTube Channel](https://www.youtube.com/channel/UCdcgOD_SQ9Pm1CyAC58-aZA)
+- 🎮 [Game Dev/XR Portfolio](https://aldhairvera.netlify.app/)
+- 📺 [YouTube Channel](https://www.linkedin.com/in/aldhairvera/)
 - 🔗 [Linktree](https://linktr.ee/aldhairvera)
 
 <details> 
